@@ -1,0 +1,17 @@
+#left-nav-column {
+	position: fixed;
+}
+
+.jumbotron {
+	background-color: #CC3300;
+	color: #661A00
+}
+
+#header-img {
+	display:inline;
+	-webkit-border-radius: 25px;
+    border-radius: 5px;
+}
+#header-title {
+	display:inline;
+}
