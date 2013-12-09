@@ -22,7 +22,8 @@
 				</div>
 			</div>
 		</div>
-		<div class="container">
+		
+		<div class="container" id="main-content">
 			<div class="row">
 				<div class="col-xs-12 col-sm-6 col-md-4">
 					<ul class="nav nav-pills nav-stacked" id="left-nav-column">

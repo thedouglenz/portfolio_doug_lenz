@@ -44,7 +44,7 @@
 				<p>' . $projects[$n]['languages'] . '</p>
 				<h3>Resource:</h3>
 				'; if($projects[$n]['resource_type'] == 'link') {
-					echo '<p><a href="'.$projects[$n]['resource_location'].'">'.$projects[$n]['name'].'</a></p>';
+					echo '<p><a target="_blank" href="'.$projects[$n]['resource_location'].'">'.$projects[$n]['name'].'</a></p>';
 				} else {
 					echo 'This is a downloadable resource. Right click and click "Save as...": <p><a href="'.$projects[$n]['resource_location'].'">'.$projects[$n]['name'].'</a></p>';
 				} 
