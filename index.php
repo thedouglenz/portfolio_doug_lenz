@@ -44,7 +44,8 @@
 							past.
 						</p>
 						<h2>R&eacute;sum&eacute;</h2>
-						Right click <a href="download/Resume 11-2013.docx">this link</a> and choose "Save as..." to download my latest resume.
+						Right click <a href="download/Resume 11-2013.docx">this link</a> and choose "Save as..." to download my latest r&eacute;sum&eacute;.
+						<h3>Or click download: <a class="btn btn-success" href="download/Resume 11-2013.docx">Download</a></h3>
 						<h2>Contact Information:</h2>
 						<div class="panel panel-default">
 							<div class="panel-body">
