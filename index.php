@@ -41,8 +41,27 @@
 							I am a Computer Science student at Indiana University Purdue University Indianapolis.
 							Currently pursuing a Bachelor's of Science from Purdue School of Science. This portfolio
 							should briefly exhibit some of the more significant examples of work I have done in the
-							past.
+							past. Please enjoy this ad-free portfolio!
 						</p>
+						<p>
+							I've developed this website from scratch for myself using the help of <a href="http://getbootstrap.com/">Bootstrap 3</a>
+							to assist with the design. It uses PHP on the backend to serve data associated with each project and automatically
+							populates the right hand column with project details via an ajax call. 
+						</p>
+						<p>
+							On my resume, I list a few programming languages and technologies that I feel I understand to a moderate degree. I don't,
+							however, claim to "know" any programming languages as I feel that such a statement is both inadequately strong and irrelevant.
+							I do purport to understand the software/hardware interface and the elements/techiniques of high-level computer programming languages
+							to an extent that qualifies me to learn and master projects regardless of the language I choose to use. This is also a strong
+							statement but it means more to me than to say I "know" this language and this langauge and this one... 
+						</p>
+						<p>
+							Certain languages do spark
+							my interest and I'm often tempted to use and research them. Examples of such are C and C++. I have for them a particular fondness as someone
+							might have with some TV series. I don't know as much as Bjarne Stroustrup (the creator of C++) but I sure do enjoy utilizing 
+							his creation and its close predecessor. Much the same, a person might love to watch a certain TV program but would never know the
+							trivial (or perhaps incredibly significant) things that the creator knows.
+						</p> 
 						<h2>R&eacute;sum&eacute;</h2>
 						Right click <a href="download/Resume 11-2013.docx">this link</a> and choose "Save as..." to download my latest r&eacute;sum&eacute;.
 						<h3>Or click this button &rarr; <a class="btn btn-success" href="download/Resume 11-2013.docx"> <strong>Download</strong> </a></h3>
