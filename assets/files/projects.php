@@ -19,7 +19,7 @@
 			'platform'=>'Web application', 
 			'languages'=>'HTML, CSS, Javascript, PHP',
 			'resource_type'=>'link',
-			'resource_location'=>'http://dougsprojects.heliohost.org/rtc/'
+			'resource_location'=>'http://dougsprojects.x10.mx/projects/rtc/'
 		),
 		array( // Project 3: Peak
 			'name'=>'Peak',
