@@ -14,7 +14,7 @@
 		array( // Project 2: Realtime Coder Web App
 			'name'=>'Realtime Coder Web App', 
 			'description'=>'A small and easy HTML/Javascript/CSS coding environment running within the browser that offers a live preview of the results of the code as the user writes it. Has the option to save completed files.', 
-			'type'=>'Testing', 
+			'type'=>'Web Application', 
 			'partners'=>'None',
 			'platform'=>'Web application', 
 			'languages'=>'HTML, CSS, Javascript, PHP',
@@ -30,6 +30,16 @@
 			'languages'=>'C++',
 			'resource_type'=>'file',
 			'resource_location'=>'assets/download/peak.cpp'		
+		),
+		array( // Project 4: Vector Addition
+			'name'=>'Vector Addition C',
+			'description'=>'A simple program that adds two vectors of a given size. Requests the size of the vectors, requests the floating point elements of the vectors, and computes their sum. Reports results to the screen. I have also written a version of the vector addition function that performs the work of adding two 1024 element vectors entirely on the GPU using parallel programming and CUDA C.',
+			'type'=>'Software / Algorithm design',
+			'partners'=>'None',
+			'platform'=>'Windows, Mac, Linux',
+			'languages'=>'C',
+			'resource_type'=>'file',
+			'resource_location'=>'assets/download/main.c'		
 		)
 	);
 	

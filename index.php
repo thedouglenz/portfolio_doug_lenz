@@ -32,6 +32,7 @@
 					  <li><a href="#" id="1">Novus Garage</a></li>
 					  <li><a href="#" id="2">Realtime Coder</a></li>
 					  <li><a href="#" id="3">Peak</a></li>
+					  <li><a href="#" id="4">Vector Addition C</a></li>
 					</ul>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-8">
@@ -63,8 +64,8 @@
 							trivial (or perhaps incredibly significant) things that the creator knows.
 						</p> 
 						<h2>R&eacute;sum&eacute;</h2>
-						Right click <a href="download/Resume 11-2013.docx">this link</a> and choose "Save as..." to download my latest r&eacute;sum&eacute;.
-						<h3>Or click this button &rarr; <a class="btn btn-success" href="download/Resume 11-2013.docx"> <strong>Download</strong> </a></h3>
+						Right click <a href="assets/download/Resume 11-2013.docx">this link</a> and choose "Save as..." to download my latest r&eacute;sum&eacute;.
+						<h3>Or click this button &rarr; <a class="btn btn-success" href="assets/download/Resume 11-2013.docx"> <strong>Download</strong> </a></h3>
 						<h2>Contact Information:</h2>
 						<div class="panel panel-default">
 							<div class="panel-body">
